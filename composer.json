@@ -1,5 +1,5 @@
 {
-	"name": "stripelabs/sakemore",
+	"name": "silverstripe/sakemore",
 	"description": "A command line tool for interfacing with Silverstripe.",
 	"type": "silverstripe-module",
 	"keywords": ["sake", "sakemore", "sake more", "cli", "command line", "clear cache", "cache", "dump", "password", "pwd", "php"],
