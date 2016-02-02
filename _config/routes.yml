@@ -1,0 +1,8 @@
+---
+Name: sakemore
+After:
+  - '#coreroutes'
+---
+Director:
+  rules:
+    'more': 'More'
